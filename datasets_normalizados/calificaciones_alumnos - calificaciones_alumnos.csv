@@ -1,0 +1,201 @@
+ID_Alumno,Modalidad,Calificacion,Rendimiento,Aprendizaje
+1,Presencial,98,Alto,Regular
+2,Online,88,Alto,Excelente
+3,Presencial,74,Bajo,Pobre
+4,Presencial,67,Medio,Bueno
+5,Online,80,Bajo,Bueno
+6,Online,98,Alto,Excelente
+7,Presencial,78,Medio,Regular
+8,Presencial,82,Bajo,Regular
+9,Online,70,Medio,Pobre
+10,Presencial,70,Bajo,Excelente
+11,Online,83,Medio,Bueno
+12,Presencial,95,Alto,Regular
+13,Online,99,Alto,Excelente
+14,Online,83,Medio,Regular
+15,Online,62,Bajo,Regular
+16,Presencial,81,Alto,Bueno
+17,Presencial,61,Alto,Muy bueno
+18,Online,83,Alto,Pobre
+19,Presencial,89,Medio,Pobre
+20,Online,97,Medio,Bueno
+21,Online,61,Bajo,Regular
+22,Presencial,80,Bajo,Excelente
+23,Presencial,92,Bajo,Regular
+24,Online,71,Medio,Bueno
+25,Presencial,81,Medio,Pobre
+26,Presencial,84,Bajo,Regular
+27,Online,86,Bajo,Pobre
+28,Online,87,Medio,Excelente
+29,Presencial,75,Bajo,Pobre
+30,Online,74,Alto,Pobre
+31,Online,62,Medio,Muy bueno
+32,Presencial,96,Bajo,Muy bueno
+33,Online,66,Medio,Muy bueno
+34,Online,80,Alto,Pobre
+35,Presencial,68,Medio,Bueno
+36,Presencial,98,Medio,Pobre
+37,Online,77,Medio,Bueno
+38,Online,63,Medio,Bueno
+39,Presencial,84,Alto,Muy bueno
+40,Presencial,73,Medio,Regular
+41,Presencial,68,Medio,Excelente
+42,Presencial,85,Bajo,Muy bueno
+43,Online,61,Medio,Muy bueno
+44,Presencial,79,Bajo,Regular
+45,Presencial,87,Alto,Excelente
+46,Online,66,Alto,Pobre
+47,Presencial,67,Alto,Pobre
+48,Online,94,Alto,Muy bueno
+49,Presencial,73,Bajo,Excelente
+50,Presencial,76,Medio,Muy bueno
+51,Presencial,95,Alto,Bueno
+52,Online,99,Medio,Muy bueno
+53,Online,63,Bajo,Muy bueno
+54,Presencial,61,Bajo,Pobre
+55,Online,65,Bajo,Pobre
+56,Online,63,Alto,Pobre
+57,Online,88,Medio,Bueno
+58,Online,77,Medio,Pobre
+59,Online,85,Medio,Excelente
+60,Online,93,Bajo,Regular
+61,Presencial,69,Alto,Excelente
+62,Presencial,95,Bajo,Excelente
+63,Online,73,Bajo,Pobre
+64,Presencial,90,Medio,Regular
+65,Presencial,74,Bajo,Regular
+66,Presencial,67,Medio,Regular
+67,Presencial,73,Alto,Bueno
+68,Online,82,Medio,Pobre
+69,Presencial,99,Alto,Regular
+70,Presencial,80,Medio,Bueno
+71,Online,75,Bajo,Muy bueno
+72,Online,77,Bajo,Muy bueno
+73,Presencial,83,Alto,Bueno
+74,Presencial,85,Alto,Bueno
+75,Presencial,84,Alto,Pobre
+76,Presencial,88,Medio,Pobre
+77,Presencial,74,Medio,Muy bueno
+78,Presencial,60,Alto,Regular
+79,Online,84,Bajo,Muy bueno
+80,Presencial,66,Medio,Regular
+81,Presencial,68,Medio,Regular
+82,Online,83,Medio,Pobre
+83,Online,60,Alto,Excelente
+84,Online,67,Alto,Excelente
+85,Online,83,Alto,Bueno
+86,Presencial,70,Alto,Pobre
+87,Presencial,76,Alto,Regular
+88,Presencial,67,Bajo,Excelente
+89,Presencial,94,Bajo,Regular
+90,Presencial,94,Alto,Excelente
+91,Presencial,92,Medio,Excelente
+92,Online,64,Alto,Excelente
+93,Presencial,98,Bajo,Pobre
+94,Online,87,Bajo,Muy bueno
+95,Online,66,Medio,Regular
+96,Presencial,68,Bajo,Pobre
+97,Online,67,Alto,Pobre
+98,Presencial,71,Medio,Pobre
+99,Online,93,Alto,Pobre
+100,Presencial,92,Alto,Pobre
+101,Online,82,Medio,Bueno
+102,Presencial,83,Alto,Regular
+103,Presencial,96,Bajo,Pobre
+104,Presencial,94,Alto,Regular
+105,Presencial,99,Medio,Bueno
+106,Presencial,81,Medio,Bueno
+107,Online,86,Medio,Regular
+108,Online,94,Alto,Excelente
+109,Online,60,Medio,Muy bueno
+110,Presencial,94,Medio,Excelente
+111,Online,96,Alto,Excelente
+112,Presencial,73,Bajo,Excelente
+113,Presencial,62,Alto,Pobre
+114,Online,60,Medio,Bueno
+115,Online,64,Medio,Excelente
+116,Presencial,85,Alto,Bueno
+117,Online,73,Bajo,Regular
+118,Presencial,98,Medio,Muy bueno
+119,Presencial,86,Medio,Regular
+120,Presencial,68,Medio,Regular
+121,Presencial,74,Alto,Pobre
+122,Presencial,74,Medio,Muy bueno
+123,Online,85,Bajo,Regular
+124,Online,72,Medio,Regular
+125,Presencial,91,Medio,Muy bueno
+126,Presencial,98,Bajo,Muy bueno
+127,Online,91,Medio,Regular
+128,Online,63,Alto,Muy bueno
+129,Presencial,89,Alto,Regular
+130,Online,96,Alto,Regular
+131,Presencial,82,Bajo,Pobre
+132,Online,98,Medio,Excelente
+133,Presencial,74,Alto,Regular
+134,Online,88,Bajo,Bueno
+135,Presencial,95,Medio,Excelente
+136,Online,72,Bajo,Excelente
+137,Online,91,Alto,Excelente
+138,Presencial,66,Alto,Pobre
+139,Online,81,Alto,Regular
+140,Presencial,87,Bajo,Pobre
+141,Online,61,Bajo,Regular
+142,Presencial,65,Alto,Pobre
+143,Online,87,Bajo,Pobre
+144,Presencial,87,Alto,Bueno
+145,Online,79,Alto,Pobre
+146,Presencial,89,Medio,Muy bueno
+147,Online,70,Bajo,Bueno
+148,Presencial,87,Alto,Pobre
+149,Presencial,84,Alto,Excelente
+150,Presencial,98,Bajo,Muy bueno
+151,Online,92,Medio,Muy bueno
+152,Presencial,60,Medio,Muy bueno
+153,Online,86,Alto,Bueno
+154,Presencial,72,Bajo,Pobre
+155,Online,62,Medio,Pobre
+156,Presencial,98,Bajo,Excelente
+157,Online,65,Bajo,Excelente
+158,Online,67,Alto,Muy bueno
+159,Presencial,86,Medio,Excelente
+160,Online,68,Alto,Bueno
+161,Online,96,Medio,Pobre
+162,Presencial,92,Medio,Muy bueno
+163,Online,83,Medio,Excelente
+164,Online,74,Medio,Bueno
+165,Online,91,Medio,Bueno
+166,Presencial,91,Bajo,Excelente
+167,Online,83,Alto,Pobre
+168,Presencial,71,Bajo,Excelente
+169,Online,98,Medio,Muy bueno
+170,Online,61,Alto,Excelente
+171,Online,62,Medio,Bueno
+172,Presencial,96,Alto,Excelente
+173,Online,76,Bajo,Pobre
+174,Online,61,Alto,Regular
+175,Presencial,61,Alto,Excelente
+176,Online,87,Alto,Pobre
+177,Presencial,82,Alto,Pobre
+178,Presencial,96,Alto,Bueno
+179,Online,91,Medio,Pobre
+180,Presencial,92,Alto,Pobre
+181,Online,60,Alto,Pobre
+182,Presencial,78,Bajo,Pobre
+183,Presencial,61,Alto,Muy bueno
+184,Online,85,Bajo,Muy bueno
+185,Presencial,91,Medio,Bueno
+186,Presencial,65,Alto,Excelente
+187,Presencial,91,Bajo,Pobre
+188,Presencial,63,Bajo,Excelente
+189,Presencial,70,Medio,Excelente
+190,Online,76,Alto,Bueno
+191,Presencial,97,Alto,Pobre
+192,Online,83,Bajo,Pobre
+193,Presencial,64,Alto,Regular
+194,Online,93,Bajo,Excelente
+195,Online,65,Alto,Excelente
+196,Presencial,81,Bajo,Muy bueno
+197,Presencial,70,Alto,Regular
+198,Presencial,75,Medio,Muy bueno
+199,Online,92,Alto,Muy bueno
+200,Presencial,68,Alto,Muy bueno
